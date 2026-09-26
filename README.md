@@ -1,7 +1,7 @@
 # GUID
 A macOS app wrapper for [`uuidgen`](https://man7.org/linux/man-pages/man1/uuidgen.1.html).
 
-You can think of it as something similar [Power Toy's `#uuid`](https://learn.microsoft.com/en-us/windows/powertoys/run#uuids) but in macOS's Spotlight.
+You can think of it as something similar to [Power Toy's `#uuid`](https://learn.microsoft.com/en-us/windows/powertoys/run#uuids) but for macOS's Spotlight.
 
 ![Spotlight](/assets/Spotlight.png)
 

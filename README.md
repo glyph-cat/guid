@@ -1,5 +1,9 @@
 # GUID
-A macOS app wrapper for `uuidgen`.
+A macOS app wrapper for [`uuidgen`](https://man7.org/linux/man-pages/man1/uuidgen.1.html).
+
+You can think of it as something similar [Power Toy's `#uuid`](https://learn.microsoft.com/en-us/windows/powertoys/run#uuids) but in macOS's Spotlight.
+
+![Spotlight](/assets/Spotlight.png)
 
 ## How to Install
 1. Download `GUID.zip` from the [Releases page](https://github.com/glyph-cat/guid/releases/latest).

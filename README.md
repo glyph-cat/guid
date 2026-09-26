@@ -1,6 +1,11 @@
 # GUID
 A macOS app wrapper for `uuidgen`.
 
+## How to Install
+1. Download `GUID.zip` from the [Releases page](https://github.com/glyph-cat/guid/releases/latest).
+2. Extract the contents and move `GUID.app` into the Applications folder.
+3. To manually build the application, see [How to Build](#how-to-build).
+
 ## How to Use
 1. Launch the app.
 2. One new GUID will be generated and copied to the clipboard.

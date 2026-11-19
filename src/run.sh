@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -n $(uuidgen | tr '[:upper:]' '[:lower:]') | pbcopy
+uuidgen | tr '[:upper:]' '[:lower:]' | tr -d '\n' | pbcopy
